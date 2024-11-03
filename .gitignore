@@ -140,4 +140,3 @@ configs/secrets.yaml
 # add your env folder here if its there
 
 
-attributes/similarity.pkl
