@@ -2,8 +2,6 @@ streamlit
 numpy
 pandas
 scikit-learn
-ast
 nltk
-pickle
 requests
 setuptools
