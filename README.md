@@ -37,18 +37,18 @@
 
 ## 📍 Overview
 
-<code>This repository contains a Movie Recommendation System built using Python, designed to help users discover movies similar to their preferences. Leveraging collaborative filtering and content-based techniques, the system recommends movies based on factors like genre, actors, directors, and user ratings.</code>
+<text>This repository contains a Movie Recommendation System built using Python, designed to help users discover movies similar to their preferences. Leveraging collaborative filtering and content-based techniques, the system recommends movies based on factors like genre, actors, directors, and user ratings.</text>
 
 ---
 
 ## 👾 Features
 
-<code>
+<text>
 - Content-Based Recommendations: Recommends movies based on their similarity in genres, actors, directors, etc.
 - Collaborative Filtering: Uses user behavior data to make recommendations based on similar users' preferences.
 - Hybrid Approach: Combines multiple recommendation techniques for improved accuracy.
 - Interactive Web Interface: A simple, interactive UI powered by Streamlit.
-</code>
+</text>
 
 ---
 
