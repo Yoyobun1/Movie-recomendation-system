@@ -3,9 +3,6 @@
 </p>
 <p align="center"><h1 align="center">MOVIE-RECOMENDATION-SYSTEM</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/last-commit/Yoyobun1/Movie-recomendation-system?style=default&logo=git&logoColor=white&color=0074ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Yoyobun1/Movie-recomendation-system?style=default&color=0074ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Yoyobun1/Movie-recomendation-system?style=default&color=0074ff" alt="repo-language-count">
@@ -30,7 +27,6 @@
   - [🧪 Testing](#🧪-testing)
 - [📌 Project Roadmap](#-project-roadmap)
 - [🔰 Contributing](#-contributing)
-- [🎗 License](#-license)
 - [🙌 Acknowledgments](#-acknowledgments)
 
 ---
