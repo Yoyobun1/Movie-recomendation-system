@@ -212,7 +212,6 @@ Run the test suite using the following command:
 ## 🙌 Acknowledgments
 
 - Kaggle Dataset: TMDB 5000 Movie Dataset
-- From CampusX, link below:
-    https://www.youtube.com/watch?v=1xtrIEwY_zY&t=7416s
+- From CampusX, click the link to see tutorial: https://www.youtube.com/watch?v=1xtrIEwY_zY&t=7416s
 
 ---
