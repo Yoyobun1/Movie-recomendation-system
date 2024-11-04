@@ -72,39 +72,40 @@
 
 ### 📂 Project Index
 <details open>
-	<summary><b><code>MOVIE-RECOMENDATION-SYSTEM/</code></b></summary>
+	<summary><b><code>MOVIE-RECOMMENDATION-SYSTEM/</code></b></summary>
 	<details> <!-- __root__ Submodule -->
 		<summary><b>__root__</b></summary>
 		<blockquote>
 			<table>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/app.py'>app.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ The main application file that manages user interactions and displays movie recommendations.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/Procfile'>Procfile</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Specifies the commands to run the application on platforms like Heroku.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/setup.sh'>setup.sh</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Script to set up the development environment and install dependencies.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/requirements.txt'>requirements.txt</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Lists the Python packages required for the application to run.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/movie_recommendation_system.ipynb'>movie_recommendation_system.ipynb</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Contains the implementation of the recommendation algorithms and model training.</code></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/Yoyobun1/Movie-recomendation-system/blob/master/setup.py'>setup.py</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><code>❯ Configuration file for packaging and distributing the application as a module.</code></td>
 			</tr>
 			</table>
 		</blockquote>
 	</details>
 </details>
+
 
 ---
 ## 🚀 Getting Started
