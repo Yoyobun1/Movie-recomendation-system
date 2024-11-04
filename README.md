@@ -43,12 +43,10 @@
 
 ## 👾 Features
 
-<text>
-- Content-Based Recommendations: Recommends movies based on their similarity in genres, actors, directors, etc.
-- Collaborative Filtering: Uses user behavior data to make recommendations based on similar users' preferences.
-- Hybrid Approach: Combines multiple recommendation techniques for improved accuracy.
-- Interactive Web Interface: A simple, interactive UI powered by Streamlit.
-</text>
+- **Content-Based Recommendations**: Recommends movies based on their similarity in genres, actors, directors, etc.
+- **Collaborative Filtering**: Uses user behavior data to make recommendations based on similar users' preferences.
+- **Hybrid Approach**: Combines multiple recommendation techniques for improved accuracy.
+- **Interactive Web Interface**: A simple, interactive UI powered by Streamlit.
 
 ---
 
