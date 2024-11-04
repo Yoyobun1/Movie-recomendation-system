@@ -6,7 +6,6 @@
 	<em><code>❯ REPLACE-ME</code></em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/github/license/Yoyobun1/Movie-recomendation-system?style=default&logo=opensourceinitiative&logoColor=white&color=0074ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/Yoyobun1/Movie-recomendation-system?style=default&logo=git&logoColor=white&color=0074ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/Yoyobun1/Movie-recomendation-system?style=default&color=0074ff" alt="repo-top-language">
 	<img src="https://img.shields.io/github/languages/count/Yoyobun1/Movie-recomendation-system?style=default&color=0074ff" alt="repo-language-count">
@@ -38,13 +37,18 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ This repository contains a Movie Recommendation System built using Python, designed to help users discover movies similar to their preferences. Leveraging collaborative filtering and content-based techniques, the system recommends movies based on factors like genre, actors, directors, and user ratings.</code>
 
 ---
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+<code>❯
+- Content-Based Recommendations: Recommends movies based on their similarity in genres, actors, directors, etc.
+- Collaborative Filtering: Uses user behavior data to make recommendations based on similar users' preferences.
+- Hybrid Approach: Combines multiple recommendation techniques for improved accuracy.
+- Interactive Web Interface: A simple, interactive UI powered by Streamlit.
+</code>
 
 ---
 
@@ -160,13 +164,6 @@ Run the test suite using the following command:
 ❯ pytest
 ```
 
-
----
-## 📌 Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [X] **`Task 2`**: Implement feature two.
-- [X] **`Task 3`**: Implement feature three.
 
 ---
 
